@@ -1,4 +1,9 @@
-# DoggoDash
+# DoggoDash-R
+
+- As of today, August 13, 2024, Dash for R, an important dependency of this project, has not received much love, including the fact that it has been removed from CRAN, that the code in this repository is broken.  If you are interested in the same product written in Dash for Python, please go to the following locations:
+  - [Dashboard on Render.com](https://doggodash.onrender.com/) (Please patient with it as it may take some time to load after being idle for some time.  Thanks for your understanding.)
+  - [GitHub repository](https://github.com/stevenleung2018/doggodash)
+
 [Click to view app](dsci532-group18-r.herokuapp.com/)
 
 Welcome to DoggoDash! DoggoDash is an interactive web app created using Dash and Python which provides visualizations for users to explore the breeds of dog that best match their selected preferences. Whether you are a potential new dog owner or are curious about your current dog breed's ranking among others, DoggoDash can help you!
